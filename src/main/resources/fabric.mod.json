@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "bottleofgender",
+  "version": "${version}",
+
+  "name": "Bottle of Gender",
+  "description": "FlashFest mod for 23w13a_or_b",
+  "authors": [
+    "LemmaEOF"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/bottleofgender/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "gay.lemmaeof.bottleofgender.BottleOfGender"
+    ],
+    "cardinal-components": [
+      "gay.lemmaeof.bottleofgender.BottleOfGender"
+    ]
+  },
+  "mixins": [
+    "mixins.bottleofgender.json"
+  ],
+  "custom": {
+    "cardinal-components": [
+      "bottleofgender:gender"
+    ]
+  }
+}

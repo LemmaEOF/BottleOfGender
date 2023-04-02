@@ -1,0 +1,5 @@
+{
+  "item.bottleofgender.bottle_of_gender": "Bottle of Gender",
+  "msg.bottleofgender.newgender": "your gender is now %s. you feel amazing!",
+  "msg.bottleofgender.newgender.null": "your gender is now NULL. you feel amazing!"
+}

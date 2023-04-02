@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "gay.lemmaeof.bottleofgender.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinPlayerRenderer",
+    "MixinPotionBrewing",
+    "MixinPotionSlot"
+  ]
+}
