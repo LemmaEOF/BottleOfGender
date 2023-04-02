@@ -9,7 +9,7 @@
     "LemmaEOF"
   ],
 
-  "license": "CC0-1.0",
+  "license": "MIT/BBHL Dual-License",
   "icon": "assets/bottleofgender/icon.png",
 
   "environment": "*",
